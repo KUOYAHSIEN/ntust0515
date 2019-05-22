@@ -1,0 +1,1 @@
+https://afternoon-mesa-43257.herokuapp.com/admin/login/?next=/admin/
